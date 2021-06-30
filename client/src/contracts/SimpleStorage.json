@@ -42,9 +42,9 @@
       "constant": true
     }
   ],
-  "metadata": "{\"compiler\":{\"version\":\"0.8.0+commit.c7dfd78e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"name\":\"NumberChanged\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"x\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/nicolas/Desktop/simple-storage-react/contracts/SimpleStorage.sol\":\"SimpleStorage\"},\"evmVersion\":\"byzantium\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/nicolas/Desktop/simple-storage-react/contracts/SimpleStorage.sol\":{\"keccak256\":\"0xa9f8c087a893fa63c70b4bf0a54775ca8544e04c9b3eeb928a158e98d3dd7a39\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://590669200147fb3a0a7f71afa381a6760a25b340c68d09f991f99dcbdd37682d\",\"dweb:/ipfs/QmPQw9LQ2p2j4FuHRyLFnbn5erxh5Gzt2xDgb1TTEkGo8D\"]}},\"version\":1}",
-  "bytecode": "0x608060405234801561001057600080fd5b5061019b806100206000396000f3fe608060405234801561001057600080fd5b5060043610610053576000357c01000000000000000000000000000000000000000000000000000000009004806360fe47b1146100585780636d4ce63c14610074575b600080fd5b610072600480360381019061006d91906100f1565b610092565b005b61007c6100d3565b6040516100899190610129565b60405180910390f35b806000819055507f2fd81fd19d3c5c4b396dd13f451dafc8bcac1b3094c49c5fa90e68456323f0e3816040516100c89190610129565b60405180910390a150565b60008054905090565b6000813590506100eb8161014e565b92915050565b60006020828403121561010357600080fd5b6000610111848285016100dc565b91505092915050565b61012381610144565b82525050565b600060208201905061013e600083018461011a565b92915050565b6000819050919050565b61015781610144565b811461016257600080fd5b5056fea2646970667358221220b4f1e478f7b090111a6dc8356c881c4fd552a0f9ad9d8076f286a221e5d0d1a264736f6c63430008000033",
-  "deployedBytecode": "0x608060405234801561001057600080fd5b5060043610610053576000357c01000000000000000000000000000000000000000000000000000000009004806360fe47b1146100585780636d4ce63c14610074575b600080fd5b610072600480360381019061006d91906100f1565b610092565b005b61007c6100d3565b6040516100899190610129565b60405180910390f35b806000819055507f2fd81fd19d3c5c4b396dd13f451dafc8bcac1b3094c49c5fa90e68456323f0e3816040516100c89190610129565b60405180910390a150565b60008054905090565b6000813590506100eb8161014e565b92915050565b60006020828403121561010357600080fd5b6000610111848285016100dc565b91505092915050565b61012381610144565b82525050565b600060208201905061013e600083018461011a565b92915050565b6000819050919050565b61015781610144565b811461016257600080fd5b5056fea2646970667358221220b4f1e478f7b090111a6dc8356c881c4fd552a0f9ad9d8076f286a221e5d0d1a264736f6c63430008000033",
+  "metadata": "{\"compiler\":{\"version\":\"0.8.0+commit.c7dfd78e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"name\":\"NumberChanged\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"x\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/nicolas/Desktop/Truffle/SimpleStorageTruffle/contracts/SimpleStorage.sol\":\"SimpleStorage\"},\"evmVersion\":\"byzantium\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/nicolas/Desktop/Truffle/SimpleStorageTruffle/contracts/SimpleStorage.sol\":{\"keccak256\":\"0xa9f8c087a893fa63c70b4bf0a54775ca8544e04c9b3eeb928a158e98d3dd7a39\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://590669200147fb3a0a7f71afa381a6760a25b340c68d09f991f99dcbdd37682d\",\"dweb:/ipfs/QmPQw9LQ2p2j4FuHRyLFnbn5erxh5Gzt2xDgb1TTEkGo8D\"]}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b5061019b806100206000396000f3fe608060405234801561001057600080fd5b5060043610610053576000357c01000000000000000000000000000000000000000000000000000000009004806360fe47b1146100585780636d4ce63c14610074575b600080fd5b610072600480360381019061006d91906100f1565b610092565b005b61007c6100d3565b6040516100899190610129565b60405180910390f35b806000819055507f2fd81fd19d3c5c4b396dd13f451dafc8bcac1b3094c49c5fa90e68456323f0e3816040516100c89190610129565b60405180910390a150565b60008054905090565b6000813590506100eb8161014e565b92915050565b60006020828403121561010357600080fd5b6000610111848285016100dc565b91505092915050565b61012381610144565b82525050565b600060208201905061013e600083018461011a565b92915050565b6000819050919050565b61015781610144565b811461016257600080fd5b5056fea26469706673582212206a59fcb9d4e845404dd71f98fc5aa93194aaf3d6afb9610598d80c2715b6281b64736f6c63430008000033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b5060043610610053576000357c01000000000000000000000000000000000000000000000000000000009004806360fe47b1146100585780636d4ce63c14610074575b600080fd5b610072600480360381019061006d91906100f1565b610092565b005b61007c6100d3565b6040516100899190610129565b60405180910390f35b806000819055507f2fd81fd19d3c5c4b396dd13f451dafc8bcac1b3094c49c5fa90e68456323f0e3816040516100c89190610129565b60405180910390a150565b60008054905090565b6000813590506100eb8161014e565b92915050565b60006020828403121561010357600080fd5b6000610111848285016100dc565b91505092915050565b61012381610144565b82525050565b600060208201905061013e600083018461011a565b92915050565b6000819050919050565b61015781610144565b811461016257600080fd5b5056fea26469706673582212206a59fcb9d4e845404dd71f98fc5aa93194aaf3d6afb9610598d80c2715b6281b64736f6c63430008000033",
   "immutableReferences": {},
   "generatedSources": [],
   "deployedGeneratedSources": [
@@ -643,9 +643,9 @@
   "sourceMap": "56:235:1:-:0;;;;;;;;;;;;;;;;;;;",
   "deployedSourceMap": "56:235:1:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;135:80;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;219:70;;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;135:80;182:1;169:10;:14;;;;194:16;208:1;194:16;;;;;;:::i;:::-;;;;;;;;135:80;:::o;219:70::-;255:4;274:10;;267:17;;219:70;:::o;7:139:2:-;;91:6;78:20;69:29;;107:33;134:5;107:33;:::i;:::-;59:87;;;;:::o;152:262::-;;260:2;248:9;239:7;235:23;231:32;228:2;;;276:1;273;266:12;228:2;319:1;344:53;389:7;380:6;369:9;365:22;344:53;:::i;:::-;334:63;;290:117;218:196;;;;:::o;420:118::-;507:24;525:5;507:24;:::i;:::-;502:3;495:37;485:53;;:::o;544:222::-;;675:2;664:9;660:18;652:26;;688:71;756:1;745:9;741:17;732:6;688:71;:::i;:::-;642:124;;;;:::o;772:77::-;;838:5;827:16;;817:32;;;:::o;855:122::-;928:24;946:5;928:24;:::i;:::-;921:5;918:35;908:2;;967:1;964;957:12;908:2;898:79;:::o",
   "source": "// SPDX-License-Identifier: MIT\npragma solidity 0.8.0;\n\ncontract SimpleStorage {\n  uint storedData;\n\n  event NumberChanged(uint);\n  \n  function set(uint x) public {\n    storedData = x;\n    emit NumberChanged(x);\n  }\n\n  function get() public view returns (uint) {\n    return storedData;\n  }\n}\n",
-  "sourcePath": "/Users/nicolas/Desktop/simple-storage-react/contracts/SimpleStorage.sol",
+  "sourcePath": "/Users/nicolas/Desktop/Truffle/SimpleStorageTruffle/contracts/SimpleStorage.sol",
   "ast": {
-    "absolutePath": "/Users/nicolas/Desktop/simple-storage-react/contracts/SimpleStorage.sol",
+    "absolutePath": "/Users/nicolas/Desktop/Truffle/SimpleStorageTruffle/contracts/SimpleStorage.sol",
     "exportedSymbols": {
       "SimpleStorage": [
         67
@@ -987,7 +987,7 @@
     "src": "32:260:1"
   },
   "legacyAST": {
-    "absolutePath": "/Users/nicolas/Desktop/simple-storage-react/contracts/SimpleStorage.sol",
+    "absolutePath": "/Users/nicolas/Desktop/Truffle/SimpleStorageTruffle/contracts/SimpleStorage.sol",
     "exportedSymbols": {
       "SimpleStorage": [
         67
@@ -1336,12 +1336,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x5EF02579a817bd71D1b378BDa50070012c5694FE",
-      "transactionHash": "0x8fba9fad35a2ea1ef08656ac169768f8628190ff83226604a0263c40663d99d0"
+      "address": "0x3Dd7ea7E40F4372fc2F19Eb67573eB48fCa10825",
+      "transactionHash": "0x252a5be3f74818e03e9da3bb48abeca8f01ff4fda616f85c435d128109c97ef9"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-06-17T09:18:04.737Z",
+  "updatedAt": "2021-06-30T13:50:00.960Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

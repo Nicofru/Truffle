@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TruffleSimpleStorage/static/css/main.a3487775.chunk.css",
+    "main.js": "/TruffleSimpleStorage/static/js/main.44b80b97.chunk.js",
+    "main.js.map": "/TruffleSimpleStorage/static/js/main.44b80b97.chunk.js.map",
+    "runtime-main.js": "/TruffleSimpleStorage/static/js/runtime-main.051a6749.js",
+    "runtime-main.js.map": "/TruffleSimpleStorage/static/js/runtime-main.051a6749.js.map",
+    "static/js/2.97793b9f.chunk.js": "/TruffleSimpleStorage/static/js/2.97793b9f.chunk.js",
+    "static/js/2.97793b9f.chunk.js.map": "/TruffleSimpleStorage/static/js/2.97793b9f.chunk.js.map",
+    "index.html": "/TruffleSimpleStorage/index.html",
+    "precache-manifest.378ebc44295f377a2be2e51e3f3ce8ca.js": "/TruffleSimpleStorage/precache-manifest.378ebc44295f377a2be2e51e3f3ce8ca.js",
+    "service-worker.js": "/TruffleSimpleStorage/service-worker.js",
+    "static/css/main.a3487775.chunk.css.map": "/TruffleSimpleStorage/static/css/main.a3487775.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.051a6749.js",
+    "static/js/2.97793b9f.chunk.js",
+    "static/css/main.a3487775.chunk.css",
+    "static/js/main.44b80b97.chunk.js"
+  ]
+}

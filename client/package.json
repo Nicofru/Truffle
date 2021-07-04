@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Nicofru.github.io/TruffleSimpleStorage",
   "dependencies": {
     "react": "16.11.0",
     "react-dom": "16.11.0",
@@ -9,6 +10,8 @@
     "web3": "1.2.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
